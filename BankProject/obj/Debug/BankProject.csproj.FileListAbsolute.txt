@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\BankProject\BankProject\bin\Debug\BankProject.exe.config
+C:\Users\Lenovo\source\repos\BankProject\BankProject\bin\Debug\BankProject.exe
+C:\Users\Lenovo\source\repos\BankProject\BankProject\bin\Debug\BankProject.pdb
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.Form1.resources
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.exe
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.pdb
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.Choose.resources
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.Form2.resources
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.ta.resources
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.uspe.resources
+C:\Users\Lenovo\source\repos\BankProject\BankProject\obj\Debug\BankProject.aut.resources
